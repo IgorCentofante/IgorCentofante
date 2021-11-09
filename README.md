@@ -18,8 +18,9 @@ https://open.spotify.com/user/rdxswyvg3xevbhjml4kimas8m?si=a64d581b70874f7b)
 </blockquote>
 
 ---
+![InShot_20211108_223656088](https://user-images.githubusercontent.com/85705273/140846023-ef1abe10-b591-4857-b0fe-8385200b5980.gif)
 
-![tumblr_pm5z65C0hF1qbw2q1o1_1280](https://user-images.githubusercontent.com/85705273/140432627-6c45b39b-00bd-4d82-bc66-9f38611fd8cb.gif)
+
 
 <details>
   <summary> <b> Quer saber mais sobre mim? </b> <i>(Clique aqui para expandir)</i> </summary>
