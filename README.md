@@ -18,13 +18,13 @@
 </blockquote>
 
 ---
-![InShot_20211108_223656088](https://igorcentofante.github.io/Samurai/src/bc.gif)
-
+<img src="https://igorcentofante.github.io/Samurai/src/bc.gif">
 
 <details>
   <summary> <b> Quer saber mais sobre mim? </b> <i>(Clique aqui para expandir)</i> </summary>
   <br>
 
-![Ígor Emanuel stats](https://github-readme-stats.vercel.app/api?username=IgorCentofante&show_icons=true&theme=radical)
+  ![Ígor Emanuel stats](https://github-readme-stats.vercel.app/api?username=IgorCentofante&show_icons=true&theme=dark)
+</details>
 
 
