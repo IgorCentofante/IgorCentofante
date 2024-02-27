@@ -1,9 +1,10 @@
 ### Hi, i'm Ígor Emanuel✋
 
+<h1>Desenvolvedor e estudante.</h1>
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-centofante/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:igorecentofante@gmail.com)
+<a href ="(https://www.linkedin.com/in/igor-centofante/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]" target="_blank">
+<a href ="mailto:igorecentofante@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 
 <h3>💻 <em>Langs</em></h3>
@@ -17,8 +18,7 @@
 </blockquote>
 
 ---
-![InShot_20211108_223656088](https://camo.githubusercontent.com/5dc6ee33381917e41fc9c4951799268998f11a9b864399bf79a0842e4f9b194d/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966)
-
+![InShot_20211108_223656088](https://igorcentofante.github.io/Samurai/src/bc.gif)
 
 
 <details>
